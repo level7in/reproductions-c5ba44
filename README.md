@@ -6,6 +6,9 @@
 
 The `@pivanov/vite-plugin-svg-sprite` plugin exhibits non-deterministic behavior during production builds, where identical source code generates different file hashes across multiple builds. This inconsistency can cause issues with caching strategies and deployment pipelines.
 
+* [PR](https://github.com/pivanov/vite-plugin-svg-sprite/pull/27)
+* [issue](https://github.com/pivanov/vite-plugin-svg-sprite/issues/26)
+
 ## How to Reproduce
 
 1. **Build the project twice** using the same source code
