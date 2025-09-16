@@ -1,6 +1,6 @@
-# vite-plugin-svg-sprite-reproductions
+# @pivanov/vite-plugin-svg-sprite reproductions
 
-* This is a reproduction of the [vite-plugin-svg-sprite](https://github.com/pivanov/vite-plugin-svg-sprite) plugin.
+* This is a reproduction of the [@pivanov/vite-plugin-svg-sprite](https://github.com/pivanov/vite-plugin-svg-sprite) plugin.
 * In order to reproduce the non-deterministic build issue
 
 ## Reproduce
